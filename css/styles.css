@@ -37,12 +37,9 @@
 .recdiv{
     text-align: center;
 }
-.hr{
-    position: absolute;
-    top: 1%;
-    color: rgb(192, 219, 242);
-}
-.hrb{
-    position: absolute;
-    bottom: 3%;
+.centerpage{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
